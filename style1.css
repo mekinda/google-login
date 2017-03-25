@@ -1,0 +1,150 @@
+.img-logo {
+	height: 200px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+h1 {
+	text-align: center;
+	position: relative;
+	bottom: 80px;
+	font-size: 35px;
+	font-weight: 300;
+	color: #262626;
+	margin: 0 0 15px;
+	font-family: 'Open Sans', arial;
+	color: #555;
+}
+
+h2 {
+	text-align: center;
+	position: relative;
+	bottom: 80px;
+	font-size: 20px;
+	font-weight: 300;
+	color: #262626;
+	margin: 0 0 15px;
+	font-family: 'Open Sans', arial;
+	color: #555;
+}
+
+#login-box {
+	height: 320px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: 1px solid #eaeaea;
+	box-shadow: inset 1px 1px 1px #eaeaea;
+	position: relative;
+	bottom: 80px;
+	background-color: #f2f2f2;
+	
+}
+
+.login-logo {
+	height: 100px;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+	top: 40px;
+}
+
+ 
+#input {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+	top: 60px;
+	border: 1px solid rgba(0,0,0,0.3);
+	box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+	border-radius: 1px;
+	color: #404040;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	direction: ltr;
+	width: 80%;
+	height: 40px;
+	text-align: left;
+	line-height: normal; 
+}
+
+#login-btn {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+	top: 70px;
+	width: 80%;
+	height: 40px;
+	text-align: center;
+	line-height: normal;
+	background-color: #4285f4; 
+    color: white; 
+	border-radius: 2px;
+	border: 1px solid #4285f4;
+	box-shadow: inset 0 1px 2px #4285f4;
+}
+
+.need-help {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	position: relative;
+	top: 75px;
+	float: right;
+	text-decoration: none;
+	margin-right: 40px;
+	color: #427fed;
+}
+
+#link-signup {
+	text-align: center;
+	line-height: normal;	
+	position: relative;
+	bottom: 60px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 15px;
+	color: #427fed;
+	font-family: 'Open Sans', arial;
+}
+
+#middle-h2 {
+	position: relative;
+	line-height: normal;	
+	position: relative;
+	bottom: 40px;
+	font-size: medium;
+}
+
+
+#footer {
+	height: 44px;
+	font-family: arial,sans-serif;
+	font-size: small;
+	background-color: #f2f2f2;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	border-top: 1px solid #e4e4e4;
+    line-height: 10px;
+	
+}
+
+.footer-links {
+	position: relative;
+	margin: 2px;
+	margin-left: 10px;
+	left:10px;
+	bottom: -15px;
+	
+}
